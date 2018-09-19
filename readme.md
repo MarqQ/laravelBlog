@@ -29,7 +29,7 @@ Para configurar a conexão com o arquivo de banco de dados (pasta SQL), as segui
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=devmaker
+DB_DATABASE=dev
 DB_USERNAME=root
 DB_PASSWORD=
 
